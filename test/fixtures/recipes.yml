@@ -3,13 +3,23 @@
 one:
   title: MyString
   description: MyText
-  ingredients: MyText
   instructions: MyText
-  image: MyString
+  prep_time: 1
+  cook_time: 1
+  total_time: 1
+  servings: 1
+  ingredients: MyText
+  category: one
+  diet: one
 
 two:
   title: MyString
   description: MyText
-  ingredients: MyText
   instructions: MyText
-  image: MyString
+  prep_time: 1
+  cook_time: 1
+  total_time: 1
+  servings: 1
+  ingredients: MyText
+  category: two
+  diet: two
